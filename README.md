@@ -10,6 +10,6 @@
 5. Students studying in charter schools perform better than students in district schools.
 
 
-The code written to display the desired results used several arithmetic methods such as nunique(), sum(), mean(), and count(). Also the topics covered in classes such as creating Dataframes, formatting, binning, grouping, loc and sorting helped in providing the solution.
+The code written to display the desired results used several arithmetic methods such as nunique(), sum(), mean(), and count(). Also the topics covered in classes such as creating Dataframes, formatting, binning, grouping, loc method and sorting helped in providing the solution.
 
 Also, googled the following sites such as stack overflow, geeksforgeeks and https://pandas.pydata.org/ to solve for errors and understand more about certain topics.
